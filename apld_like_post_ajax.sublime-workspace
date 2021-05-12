@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"qu",
+				"question_1"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"pri",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/arunsharma/Downloads/wti-like-post/wti_like_post_admin.php",
+		"/Users/arunsharma/Downloads/kmp-script.js",
+		"/Users/arunsharma/Downloads/kmp-translations.php",
+		"/Users/arunsharma/Downloads/error_log",
+		"/Users/arunsharma/Desktop/work/11-06-2019/index.php",
+		"/Users/arunsharma/Downloads/acr30_wrdp12 (2).sql",
+		"/Users/arunsharma/Desktop/work/2603/railwayapi.php",
+		"/Users/arunsharma/Desktop/work/2603/shortcode.php",
+		"/Users/arunsharma/Desktop/work/2603/ds.classes.php",
+		"/Users/arunsharma/Desktop/work/11-03-2019/orderform.php",
+		"/Users/arunsharma/Desktop/work/11-03-2019/contactform.php",
+		"/Users/arunsharma/Desktop/work/07-03-2019/index.php",
+		"/Users/arunsharma/Desktop/work/07-03-2019/test.php",
+		"/Users/arunsharma/Desktop/work/07-03-2019/facebookcomp.php",
+		"/Users/arunsharma/Desktop/work/07-03-2019/dailychurnsubscribe.php",
+		"/Users/arunsharma/Desktop/work/07-03-2019/bretzelwagenbookingform.php",
+		"/Users/arunsharma/Desktop/work/07-03-2019/contactform.php",
+		"/Users/arunsharma/Desktop/work/06-03-2019/live/kcp-ajax-functions.php",
+		"/Users/arunsharma/Desktop/work/06-03-2019/live/checkout-cart.js",
+		"/Users/arunsharma/Desktop/work/06-03-2019/live/functions.php",
+		"/Users/arunsharma/Desktop/work/06-03-2019/stage/ds.class.php",
+		"/Users/arunsharma/Downloads/aws_michellemann.sql",
+		"/Users/arunsharma/Downloads/jatin-naik.sql",
+		"/Users/arunsharma/Desktop/work/19-02-2019/front-page.php",
+		"/Users/arunsharma/Desktop/work/19-02-2019/contactform.php",
+		"/Users/arunsharma/Desktop/work/19-02-2019/index.html",
+		"/Users/arunsharma/Downloads/mason764_mason_cmc.sql",
+		"/private/var/folders/4m/8_j723xj3hgb9214337fw19h0000gn/T/fz3temp-2/index.html",
+		"/Users/arunsharma/Downloads/new_egacytc 2.sql",
+		"/Users/arunsharma/Desktop/work/24-11-2018/add-to-cart/classes/example.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/add-to-cart/classes/class.addtocart.php",
+		"/Users/arunsharma/Desktop/work/20-11-2018/products.php",
+		"/Users/arunsharma/Desktop/work/20-11-2018/section_forms.php",
+		"/Users/arunsharma/Desktop/work/20-11-2018/vannellacheese/news.php",
+		"/Users/arunsharma/Desktop/work/20-11-2018/vannellacheese/section_forms.php",
+		"/Users/arunsharma/Desktop/work/20-11-2018/vannellacheese/contactform.php",
+		"/Users/arunsharma/Desktop/work/20-11-2018/functions.php",
+		"/Users/arunsharma/Desktop/work/22-11-2018/footer-home.php",
+		"/Users/arunsharma/Desktop/work/22-11-2018/functions.php",
+		"/Users/arunsharma/Desktop/work/22-11-2018/footer.php",
+		"/Users/arunsharma/Desktop/work/22-11-2018/home-template.php",
+		"/Users/arunsharma/Desktop/work/22-11-2018/industries-sub.php",
+		"/Users/arunsharma/Desktop/work/22-11-2018/Industries-template.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/add-to-cart/addtocart-main.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/add-to-cart/classes/addtocart-main.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/functions.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/add-to-cart/classes/addtocartFun.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/slush-machine.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/add-to-cart/js/jquery.cartProcess.js",
+		"/Users/arunsharma/Desktop/work/24-11-2018/checkout-page.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/header.php",
+		"/Users/arunsharma/Desktop/work/25-11-2018/front-page.php",
+		"/Users/arunsharma/Desktop/work/25-11-2018/page.php",
+		"/Users/arunsharma/Desktop/work/25-11-2018/style.css",
+		"/Users/arunsharma/Desktop/work/27-11-2018/checkout-page.php",
+		"/Users/arunsharma/Desktop/work/06-12-2018/header.php",
+		"/Users/arunsharma/Desktop/work/06-12-2018/fixed_header.php",
+		"/Users/arunsharma/Desktop/work/09-12-2018/admin-style.css",
+		"/Users/arunsharma/Desktop/work/09-12-2018/my_script.js",
+		"/Users/arunsharma/Desktop/work/09-12-2018/functions.php",
+		"/Users/arunsharma/Desktop/work/18-12-2018/wp-config.php",
+		"/private/var/folders/4m/8_j723xj3hgb9214337fw19h0000gn/T/fz3temp-2/.htaccess",
+		"/Users/arunsharma/Desktop/countries-new.js",
+		"/Users/arunsharma/Desktop/countries_paymentmethods.js",
+		"/Users/arunsharma/Desktop/countrypicker.js",
+		"/private/var/folders/4m/8_j723xj3hgb9214337fw19h0000gn/T/fz3temp-2/shortcode.php",
+		"/private/var/folders/4m/8_j723xj3hgb9214337fw19h0000gn/T/fz3temp-2/functions.php",
+		"/Users/arunsharma/Downloads/iRocFinance@irocfinance.com.au@irocfinance.com.au.duck",
+		"/Users/arunsharma/Downloads/sansdelhi.sql",
+		"/Users/arunsharma/Downloads/sansdelhi_oet_.sql",
+		"/private/var/folders/4m/8_j723xj3hgb9214337fw19h0000gn/T/fz3temp-2/Festivals-new.html",
+		"/Users/arunsharma/Downloads/i3630469_wp4.sql",
+		"/Users/arunsharma/Downloads/i3630469_wp5.sql",
+		"/Users/arunsharma/Desktop/work/24-11-2018/page.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/add-to-cart/akismet.php",
+		"/Users/arunsharma/Desktop/work/24-11-2018/akismet/akismet.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "apld_like_post_ajax.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

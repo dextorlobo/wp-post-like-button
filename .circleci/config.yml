@@ -13,8 +13,6 @@
           command: |
             sudo apt-get update
             sudo apt-get -qq install git-ftp
-            echo "Init project ..."
-            git ftp init --user "${ftp_user}" --passwd "${ftp_password}" ${ftp_plugin_path}
             echo "Deploying project ..."
             git ftp push --user "${ftp_user}" --passwd "${ftp_password}" ${ftp_plugin_path}
  workflows:

@@ -1,0 +1,28 @@
+ version: 2
+
+ jobs:
+  deploy:
+    docker:
+      - image: cimg/base:2021.01
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ./imarun
+      - run: 
+          name: Deploy Main Branch
+          command: |
+            sudo apt-get update
+            sudo apt-get -qq install git-ftp
+            echo "Init project ..."
+            git ftp init --user "${ftp_user}" --passwd "${ftp_password}" ${ftp_plugin_path}
+            echo "Deploying project ..."
+            git ftp push --user "${ftp_user}" --passwd "${ftp_password}" ${ftp_plugin_path}
+ workflows:
+   version: 2
+   deploy:
+     jobs:
+       - deploy:
+           context: imarun
+           filters:
+             branches:
+               only: main # only deploy on the master branch

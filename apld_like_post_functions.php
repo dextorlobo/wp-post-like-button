@@ -63,7 +63,7 @@ function PutApldLikePost($content) {
 	return $content;
 }
 
-//add_filter('the_content', 'PutApldLikePost');
+add_filter('the_content', 'PutApldLikePost');
 
 /**
 * Show the like content after excerpt
@@ -77,7 +77,7 @@ function PutApldLikePostExcerpt($content) {
 	return $content;
 }
 
-//add_filter('the_excerpt', 'PutApldLikePostExcerpt');
+add_filter('the_excerpt', 'PutApldLikePostExcerpt');
 
 
 /**
